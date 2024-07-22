@@ -16,5 +16,5 @@
 ```
 https://github.com/Lanskorot/test_task.git  
 ```
-3. Запустите програму:
+2. Запустите програму:
     #### python library.py
