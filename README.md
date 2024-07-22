@@ -17,4 +17,4 @@
 https://github.com/Lanskorot/test_task.git  
 ```
 3. Запустите програму:
-#### python library.py
+  #### python library.py
